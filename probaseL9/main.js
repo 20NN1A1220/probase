@@ -8,7 +8,7 @@ img.src = src;
 };
 
 let imagePath=(frameNumber,animation)=>{
-    return "/images/"+animation+"/"+frameNumber+".png";
+    return "/probase L9/images/"+animation+"/"+frameNumber+".png";
 };
 
 let frames = {
